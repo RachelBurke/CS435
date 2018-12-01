@@ -30,7 +30,7 @@ message is a String </br>
 checksum is an int (and may be negative since java uses signed integers) </br>
 sequence number is an int [0,1] </br>
 The values are separated by pipes, e.g.</br>
-String packet = "Hello, world|-1129|0"</br>
+`String packet = "Hello, world|-1129|0"`</br>
  
 Finally, ACKs will be sent using the message "ACK"
 
