@@ -6,7 +6,7 @@ Write a DNS client that sends an A query to a DNS server to retrieve one or more
 
 Get started with: https://github.butler.edu/npartenh/cs435/application-layer/dns/dns-client.md and https://github.butler.edu/npartenh/cs435/docs/programming_notes.md
 
-##Requirements:
+## Requirements
 
 Written in Java, C/C++ or python3 and successfully runs on thomas.butler.edu
 Does not utilize advanced libraries that simplify the pieces we’ve learned in class
