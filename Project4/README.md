@@ -21,9 +21,9 @@ And add a countdown timer to the socket when waiting for ACKs.
 
 Additionally, the packet format will be:
 
-+---------+----------+-----------------+
++ --------- + ---------- + ----------------- +
 | message | checksum | sequence number |
-+---------+----------+-----------------+
++ --------- + ---------- + ----------------- +
 
 Where the entire packet is a String and should be decoded to:
 
