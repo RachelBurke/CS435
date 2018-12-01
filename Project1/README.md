@@ -8,8 +8,8 @@ Get started with: https://github.butler.edu/npartenh/cs435/application-layer/dns
 
 ## Requirements
 
-Written in Java, C/C++ or python3 and successfully runs on thomas.butler.edu
-Does not utilize advanced libraries that simplify the pieces we’ve learned in class
-Must display all answers for the query; authorities and additional records can be ignored
-Must prompt the user for the domain name to query or allow command line input
-Everyone should complete and submit the assignment for evaluation
+Written in Java, C/C++ or python3 and successfully runs on thomas.butler.edu </br>
+Does not utilize advanced libraries that simplify the pieces we’ve learned in class </br>
+Must display all answers for the query; authorities and additional records can be ignored </br>
+Must prompt the user for the domain name to query or allow command line input </br>
+Everyone should complete and submit the assignment for evaluation </br>
