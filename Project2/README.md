@@ -2,23 +2,23 @@
 
 ## Instructions
 
-Write a single-threaded web server which:
+Write a single-threaded web server which: </br>
 
-Handles GET requests
-Handles html, css, png, jpg and jpeg files
-returns one of 200, 404 or 500 statuses for each request
-may use non-persistent or persistent HTTP (your choice which one)
-emits a log message to stdout describing each request handled
+Handles GET requests </br>
+Handles html, css, png, jpg and jpeg files </br>
+returns one of 200, 404 or 500 statuses for each request </br>
+may use non-persistent or persistent HTTP (your choice which one) </br>
+emits a log message to stdout describing each request handled </br>
 runs on thomas.butler.edu
 
 ## Requirements
 
-The program should be organized using classes and functions.  Minimally it should likely include:
-A class for HTTP requests
-A class for HTTP responses
-A function for handling each client connection
-A function for (trying) to read files for each request
-When finished, your webserver should be able to successfully serve a simple web page to a web browser like firefox, chrome or safari.
+The program should be organized using classes and functions.  Minimally it should likely include: </br>
+A class for HTTP requests </br>
+A class for HTTP responses </br>
+A function for handling each client connection </br>
+A function for (trying) to read files for each request </br>
+When finished, your webserver should be able to successfully serve a simple web page to a web browser like firefox, chrome or safari. </br>
 
 ## Helpful Links
 
