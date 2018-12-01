@@ -1,4 +1,4 @@
-# CS435 - Computer Networks - C++
+# CS435 - Computer Networks
 **Professor: Nate Partenheimer** </br>
 **August - December 2018**
 
