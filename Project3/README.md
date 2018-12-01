@@ -6,10 +6,10 @@ Write a network calculator which accepts a CIDR format network as input, e.g. 19
 
 Your program will compute and display the:
 
-Network address
-Broadcast address
-Number of usable addresses in the network
-The program should offer an option to display all usable addresses in the network.  Additionally, the addresses should be computed as integers and not manipulated as strings.
+Network address </br>
+Broadcast address </br>
+Number of usable addresses in the network </br>
+The program should offer an option to display all usable addresses in the network.  Additionally, the addresses should be computed as integers and not manipulated as strings. </br>
 
 ## Requirements
 
