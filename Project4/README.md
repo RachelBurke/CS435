@@ -6,7 +6,7 @@ Implement reliable data transfer using checksums, ACKs, sequence numbers and cou
 
 Starting point:
 
-RDTClient.java in github
+RDTClient.java in github - https://github.butler.edu/gist/npartenh/67461bfa12ba50f149eef81519ff7cb0
 
 ## Requirements
 Implement the functions required for a rdt3.0 sender.
